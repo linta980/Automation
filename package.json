@@ -1,0 +1,23 @@
+{
+  "name": "automation-framework",
+  "version": "1.0.0",
+  "description": "\"Od ovoga cemo se obogatiti!!\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linta980/Automation.git"
+  },
+  "author": "Dragan Linta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linta980/Automation/issues"
+  },
+  "homepage": "https://github.com/linta980/Automation#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
